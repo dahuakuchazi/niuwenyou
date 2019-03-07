@@ -2,6 +2,7 @@ package com.zb.pojo;
 
 import java.io.Serializable;
 
+//张三
 //实体类
 public class Comment implements Serializable {
     private Integer id;
