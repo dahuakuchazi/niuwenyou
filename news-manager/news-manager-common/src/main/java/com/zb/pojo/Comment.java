@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 //张三1
 //实体类
+//lisi
 public class Comment implements Serializable {
     private Integer id;
     private Detail newsid = new Detail();
