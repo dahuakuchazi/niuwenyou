@@ -5,3 +5,4 @@ master
 user
 local
 update
+git2
